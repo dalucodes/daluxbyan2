@@ -1,0 +1,19 @@
+.content-home{
+    
+    background: 
+    radial-gradient(circle at top center, #2C5EA9, transparent 30%),
+    #292929;
+    margin-top: 50px;
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0.5px -0.5px #ffffff;
+
+}
+.section1{
+    height:500px;
+}
+body{
+    background-color: #292929;
+    /* border: 2px solid green; */
+}

@@ -1,0 +1,73 @@
+.assest-container{
+    height: 450px;
+    width: 100%;
+    /* border: 2px solid red; */
+    background: linear-gradient(to bottom,#292929 3%,#3A4B70 17%,#2C5EA9 50%);
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    padding-top: 10px;
+    box-shadow: 0.5px -0.5px #ffffff;
+
+}
+.section2-wallet{
+    margin-top: 20px;
+   /* border: 2px solid green; */
+   margin-left: 10px;
+   margin-right: 10px;
+}
+.total-box{
+    /* margin-top: 10px; */
+    background-color: rgba(0, 0, 0, 0.2);
+    
+    /* border: 2px solid green; */
+    border-radius: 13px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.total-asset, .total-num{
+    display: flex;
+    /* justify-content: space around; */
+    align-items: center;
+    padding: 10px;
+}
+.total-num p{
+    font-size: 25px;
+    font-weight: 800;
+}
+.withdraw-box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.withdraw-box div p{
+    font-size: 13px;
+    text-align: center;
+    /* padding: 5px; */
+    /* border: 2px solid green; */
+}
+.withdraw-img{
+    display: flex;
+    justify-self: center;
+    /* height: 20px; */
+    /* border: 2px solid red ; */
+}
+.withdraw-cont{
+    width: 90px;
+    padding: 10px ;
+    
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.address2-wallet{
+    background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+    padding: 7px;
+    border-radius: 6px;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+.your-wallet{
+    margin-top: 50px;
+}

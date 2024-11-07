@@ -1,0 +1,37 @@
+.section3-profile2{
+    margin: 20px;
+    border: 1px solid rgba(44, 94, 169, 1);
+    border-radius: 20px;
+}
+.you{
+    text-align: center;
+    margin-top: 20px;
+    padding: 5px;
+}
+.http{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(69, 69, 69, 1);
+    margin: 5px 50px;
+    padding: 3px 0;
+}
+.profile2-copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:30px 90px;
+    border-radius: 6px;
+    padding: 5px 0;
+    background-color: rgba(69, 69, 69, 1);
+}
+.friends{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 1);
+    margin: 5px 20px;
+    padding: 5px 3px;
+}
+.friends-header{
+    margin-left: 35px;
+}

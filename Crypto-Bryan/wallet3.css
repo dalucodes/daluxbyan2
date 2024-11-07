@@ -1,0 +1,8 @@
+.paste-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.paste{
+    width: 120px;
+}
